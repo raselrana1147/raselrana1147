@@ -1,15 +1,144 @@
+# 👋 Hi, I'm Rasel Rana
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raselranasm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raselrana1147) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raselrana11471147) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rasel-rana-553419160) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rasel-Rana-111) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11480148/rasel-rana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@raselrana1147) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raselrana1147@gmail.com) 
+**Software Engineer | Laravel & Vue.js Specialist | Data Science Enthusiast**
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raselrana1147&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raselrana1147&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raselrana1147&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Dhaka, Bangladesh  
+📧 Email: raselrana1147@gmail.com  
+📞 Phone: +8801964719349  
+
+🔗 [GitHub](https://github.com/raselrana1147)  
+🔗 [LinkedIn](https://linkedin.com/in/rasel-rana-553419160)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raselrana1147&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 Professional Summary
+
+Software Engineer with **5+ years of professional experience** specializing in **Laravel, Vue.js, MySQL, and RESTful APIs**. Experienced in building scalable web applications, e-commerce platforms, and government-level systems. Strong background in backend and frontend development, database design, CI/CD automation, and deployment.
+
+Currently pursuing an **M.Sc. in Data Science & Statistics** to bridge software engineering with data analytics and AI. Recognized for leadership, problem-solving, and delivering high-quality solutions in fast-paced environments.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- PHP, JavaScript, Python, SQL
+
+### Frameworks & Libraries
+- Laravel, Vue.js, Inertia.js  
+- Bootstrap, Tailwind CSS, jQuery, AJAX
+
+### Databases
+- MySQL, Redis, MongoDB
+
+### Tools & Platforms
+- Git, Docker, Apache2, Nginx  
+- CI/CD Pipelines, Firebase
+
+### Data Science
+- Pandas, NumPy, Scikit-learn, Matplotlib
+
+### Soft Skills
+- Problem Solving, Team Leadership, Collaboration  
+- Adaptability, Time Management
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer**  
+**Softminion Technology Limited, Dhaka**  
+_May 2024 – Present_
+
+- Designed and developed scalable web and mobile solutions using **Laravel & Vue.js**
+- Built and maintained secure **RESTful APIs**
+- Integrated multiple **payment gateways** with validation and error handling
+- Implemented **CI/CD pipelines** for automated and reliable deployments
+- Collaborated with cross-functional teams to deliver client-ready solutions
+
+---
+
+### **Software Engineer**  
+**Bangla Puzzle Limited, Dhaka**  
+_Sep 2022 – Apr 2024_
+
+- Developed and maintained scalable Laravel applications
+- Led junior developers and designers in government & non-government projects
+- Designed system architecture and databases for large-scale platforms
+- Built secure REST APIs and deployed production systems
+
+---
+
+### **Software Engineer**  
+**Artificial Soft, Dhaka**  
+_Dec 2020 – Aug 2022_
+
+- Developed single & multi-vendor e-commerce platforms
+- Designed software architecture and database structures
+- Built secure REST APIs using **OAuth & JWT**
+- Optimized servers to improve performance and scalability
+
+---
+
+### **Junior Web Developer**  
+**Proneta IT Limited, Dhaka**  
+_Sep 2019 – Nov 2020_
+
+- Completed internship and transitioned to full-time role
+- Contributed to full-stack development of e-commerce applications
+- Built responsive UIs using **Bootstrap & Tailwind CSS**
+- Integrated frontend with Laravel APIs
+
+---
+
+## 🎓 Education
+
+**M.Sc. in Data Science & Statistics**  
+**Jahangirnagar University, Dhaka**  
+_Sep 2023 – Jul 2024_
+
+**Key Areas:**  
+Machine Learning, Data Mining, Advanced Statistics, Data Visualization,  
+Big Data Analytics, Predictive Modeling, Time Series Analysis, Optimization,  
+Database Systems, Information Retrieval
+
+---
+
+## 🚀 Projects
+
+### **E-Union International (E-commerce)** — 2025  
+- Full-featured e-commerce platform  
+- Product management, cart, payments, order tracking  
+- Built with **Laravel, Vue.js, MySQL**  
+🔗 https://e-unionint.com/
+
+---
+
+### **Bangladesh Hajj Portal Management** — 2024  
+- Government portal for Hajj registration and pilgrim services  
+- Secure authentication, role-based access, payment integration  
+- Reporting and real-time updates  
+- Tech: **Laravel, Vue.js, Inertia.js, MySQL**  
+🔗 https://hajj.gov.bd/
+
+---
+
+### **Hajj Pre-Registration Platform** — 2024  
+- Web platform for Hajj pre-registration and verification workflows  
+- Secure authentication and real-time status tracking  
+- Tech: **Laravel, Vue.js, Inertia.js, MySQL**  
+🔗 https://prp.pilgrimdb.org/
+
+---
+
+## 🏆 Awards & Certifications
+
+- **Vue.js Complete Guide** — Business Automation Limited (2024)
+- **Data Science Seminar** — Daffodil International University (2018)
+
+---
+
+## ✍️ Signature
+
+**Rasel Rana**  
+Software Engineer
