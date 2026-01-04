@@ -2,7 +2,7 @@
 
 **Software Engineer | PHP & Laravel | Vue.js | MySQL | Redis | REST API | Docker | CI/CD Pipeline**
 
-📍 Dhaka, Bangladesh  
+## 📍 Dhaka, Bangladesh  
 📧 Email: raselrana1147@gmail.com  
 📞 Phone: +8801964719349  
 ---
