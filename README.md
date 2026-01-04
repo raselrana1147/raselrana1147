@@ -2,6 +2,8 @@
 
 **Software Engineer | PHP & Laravel | Vue.js | MySQL | Redis | REST API | Docker | CI/CD Pipeline**
 
+---
+
 ## 🧑‍💻 Professional Summary
 
 Software Engineer with **5+ years of professional experience** specializing in **Laravel, Vue.js, MySQL, and RESTful APIs**. Experienced in building scalable web applications, e-commerce platforms, and government-level systems. Strong background in backend and frontend development, database design, CI/CD automation, and deployment.
