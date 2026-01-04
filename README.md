@@ -5,10 +5,6 @@
 📍 Dhaka, Bangladesh  
 📧 Email: raselrana1147@gmail.com  
 📞 Phone: +8801964719349  
-
-🔗 [GitHub](https://github.com/raselrana1147)  
-🔗 [LinkedIn](https://linkedin.com/in/rasel-rana-553419160)
-
 ---
 
 ## 🧑‍💻 Professional Summary
