@@ -25,11 +25,11 @@ Currently pursuing an **M.Sc. in Data Science & Statistics** to bridge software 
 - Bootstrap, Tailwind CSS, jQuery, AJAX
 
 ### Databases
-- MySQL, Redis, MongoDB
+- MySQL, Redis, MongoDB,Firebase
 
 ### Tools & Platforms
 - Git, Docker, Apache2, Nginx  
-- CI/CD Pipelines, Firebase
+- CI/CD Pipelines
 
 ### Data Science
 - Pandas, NumPy, Scikit-learn, Matplotlib
