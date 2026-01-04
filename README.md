@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rasel Rana
 
-**Software Engineer | PHP & Laravel | Vue.js | MySQL | Redis | REST API | Docker | CI/CD Pipeline | Docker**
+**Software Engineer | PHP & Laravel | Vue.js | MySQL | Redis | REST API | Docker | CI/CD Pipeline**
 
 📍 Dhaka, Bangladesh  
 📧 Email: raselrana1147@gmail.com  
